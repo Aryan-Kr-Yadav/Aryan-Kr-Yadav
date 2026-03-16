@@ -112,7 +112,7 @@ A web application that provides 360-degree virtual tours of monasteries in Sikki
 GDG Club – ABES Engineering College  
 Trishul Society – ABES Engineering College
 
--- 
+---
 
 📈 Always learning, always building!
 
