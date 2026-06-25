@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
+<h1 align="center">Aryan Kumar Yadav</h1>
 <h3 align="center"> 2nd- Year B.Tech CSE Student | Full Stack Developer in Progress | DSA Enthusiast</h3>
 
 <p align="center">
@@ -64,14 +64,20 @@
 |-------|-------------|------------|
 
 ### Hostel Website
-Technologies: HTML, CSS, JavaScript  
 Developed a mini project website for hostel-related information with a clean and simple user interface.
+Technologies: HTML, CSS, JavaScript  
 
 ### FocusLens – AI Eye-Tracking Focus Monitor: 
-FocusLens is an AI-powered web application that tracks user attention in real time using eye tracking, blink detection, and face orientation analysis.
+* Developed a real-time attention monitoring system using computer vision.
+* Implemented blink detection and face orientation tracking.
+* Improved user focus analysis through eye movement monitoring.
+Technologies: Python, OpenCV, MediaPipe
 
 ### KrishiMitra AI:  
-KrishiMitra AI is an AI-powered agricultural assistant designed to help farmers identify crop diseases, receive treatment recommendations, and discover relevant government schemes.
+* Built an AI-based assistant for crop disease identification.
+* Provided treatment recommendations and government scheme information.
+* Designed to assist farmers in making informed agricultural decisions.
+Technologies: Python, AI APIs.
 
 ### | Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript,React |
 
@@ -94,8 +100,6 @@ KrishiMitra AI is an AI-powered agricultural assistant designed to help farmers 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-Kr-Yadav&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
 
