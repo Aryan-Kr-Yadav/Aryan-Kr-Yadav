@@ -2,6 +2,13 @@
 ### 2nd-Year B.Tech Student | Computer Science & Engineering  
 💻 Passionate about Web Development & Problem Solving
 
+<h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
+<h3 align="center">B.Tech CSE Student | Full Stack Developer in Progress | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+with+C++;UI%2FUX+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+</p>
+
 ---
 
 ## 🎓 About Me
@@ -88,6 +95,20 @@ KrishiMitra AI is an AI-powered agricultural assistant designed to help farmers 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-Kr-Yadav&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
+
+![Metrics](https://metrics.lecoq.io/Aryan-Kr-Yadav)
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight)
+
+![Snake animation](https://github.com/Aryan-Kr-Yadav/Aryan-Kr-Yadav/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
