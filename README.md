@@ -64,20 +64,20 @@
 |-------|-------------|------------|
 
 ### Hostel Website
-Developed a mini project website for hostel-related information with a clean and simple user interface.
-Technologies: HTML, CSS, JavaScript  
+* Developed a mini project website for hostel-related information with a clean and simple user interface.
+* Technologies: HTML, CSS, JavaScript  
 
 ### FocusLens – AI Eye-Tracking Focus Monitor: 
 * Developed a real-time attention monitoring system using computer vision.
 * Implemented blink detection and face orientation tracking.
 * Improved user focus analysis through eye movement monitoring.
-Technologies: Python, OpenCV, MediaPipe
+* Technologies: Python, OpenCV, MediaPipe
 
 ### KrishiMitra AI:  
 * Built an AI-based assistant for crop disease identification.
 * Provided treatment recommendations and government scheme information.
 * Designed to assist farmers in making informed agricultural decisions.
-Technologies: Python, AI APIs.
+* Technologies: Python, AI APIs.
 
 ### | Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript,React |
 
