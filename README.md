@@ -3,7 +3,7 @@
 <h3 align="center"> 2nd- Year B.Tech CSE Student | Full Stack Developer in Progress | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast ;UI%2FUX+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;UI%2FUX+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
