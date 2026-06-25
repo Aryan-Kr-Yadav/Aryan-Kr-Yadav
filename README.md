@@ -63,10 +63,13 @@
 Technologies: HTML, CSS, JavaScript  
 Developed a mini project website for hostel-related information with a clean and simple user interface.
 
-### Monastery360 (SIH Project)
-A web application that provides 360-degree virtual tours of monasteries in Sikkim along with cultural insights and community experiences.
+### FocusLens – AI Eye-Tracking Focus Monitor: 
+FocusLens is an AI-powered web application that tracks user attention in real time using eye tracking, blink detection, and face orientation analysis.
 
-### | Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript |
+### KrishiMitra AI:  
+KrishiMitra AI is an AI-powered agricultural assistant designed to help farmers identify crop diseases, receive treatment recommendations, and discover relevant government schemes.
+
+### | Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript,React |
 
 ### | DSA Practice | Collection of solved DSA problems | C++ |
 
