@@ -101,9 +101,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night)
 
-![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
-
 ![Metrics](https://metrics.lecoq.io/Aryan-Kr-Yadav)
+
+![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
 
 
 ---
