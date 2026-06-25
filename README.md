@@ -95,17 +95,12 @@ KrishiMitra AI is an AI-powered agricultural assistant designed to help farmers 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aryan-Kr-Yadav&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
 
 ![Metrics](https://metrics.lecoq.io/Aryan-Kr-Yadav)
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight)
-
-![Snake animation](https://github.com/Aryan-Kr-Yadav/Aryan-Kr-Yadav/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
