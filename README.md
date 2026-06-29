@@ -109,7 +109,7 @@
 <img width="50%" src="https://metrics.lecoq.io/Aryan-Kr-Yadav"/>
 </p>
 
-<p align ="center>
+<p align ="center">
   <img width="50%" src ="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet"/>
 </p>
 
