@@ -94,11 +94,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
