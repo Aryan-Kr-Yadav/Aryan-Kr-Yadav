@@ -105,9 +105,14 @@
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night&hide_border=true"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/Aryan-Kr-Yadav)
+<p align="center">
+<img width="75%" src="https://metrics.lecoq.io/Aryan-Kr-Yadav"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
+<p align ="center>
+  ![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
+</p>
+
 
 
 ---
