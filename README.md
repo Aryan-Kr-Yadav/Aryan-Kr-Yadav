@@ -110,7 +110,7 @@
 </p>
 
 <p align ="center">
-  <img width="50%" src ="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet"/>
+  <img width="20%" src ="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet"/>
 </p>
 
 
