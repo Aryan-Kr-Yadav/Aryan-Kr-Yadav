@@ -106,11 +106,11 @@
 </p>
 
 <p align="center">
-<img width="75%" src="https://metrics.lecoq.io/Aryan-Kr-Yadav"/>
+<img width="50%" src="https://metrics.lecoq.io/Aryan-Kr-Yadav"/>
 </p>
 
 <p align ="center>
-  ![](https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet)
+  <img width="50%" src ="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet"/>
 </p>
 
 
