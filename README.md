@@ -93,13 +93,29 @@
 
 ## 📊 GitHub Analytics
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight)
+</td>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night)
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ![Metrics](https://metrics.lecoq.io/Aryan-Kr-Yadav)
 
