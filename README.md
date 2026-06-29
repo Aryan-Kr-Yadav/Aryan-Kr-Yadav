@@ -94,8 +94,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
