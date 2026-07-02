@@ -47,7 +47,7 @@
 ## 📫 Get In Touch
 
 📧 Email: aryanyadav30705@gmail.com  
-🌐 Portfolio: Coming Soon   
+🌐 Portfolio: (https://aryann-yadav-portfolio.netlify.app/)
 
 ---
 
