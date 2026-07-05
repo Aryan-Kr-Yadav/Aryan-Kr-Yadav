@@ -96,15 +96,15 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    alt="Aryan's GitHub Stats"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
