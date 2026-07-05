@@ -94,19 +94,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+<img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+<img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
