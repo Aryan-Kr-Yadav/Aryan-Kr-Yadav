@@ -1,7 +1,7 @@
 <h1 align="center"> Aryan Kumar Yadav </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer
+Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer
 </h3>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 🚀 My interests include:
 
-- Full Stack Web Development
+- Learning Full Stack Web Development
 - Data Structures & Algorithms
 - Data Analytics
 - UI/UX Design
@@ -200,7 +200,7 @@ When I'm away from coding, you'll usually find me:
 
 # 💭 Favorite Quote
 
-> *"The best way to learn is by building. Every project teaches something a tutorial never can."*
+> *"Sun will rise again tomorrow. ~ Rohit Sharma"*
 
 ---
 
