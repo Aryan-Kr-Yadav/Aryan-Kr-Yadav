@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI & Data Analytics Enthusiast • DSA Learner
+🚀 Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Full+Stack+Developer;Data+Analytics+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -26,29 +26,24 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech CSE Student at **ABES Engineering College**
+🎓 I'm a **B.Tech Computer Science student** at **ABES Engineering College** with a passion for building impactful software and solving real-world problems.
 
-💡 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**
+💡 I enjoy exploring new technologies, developing practical projects, and continuously improving through hands-on learning.
 
-🧠 Strong interest in **Data Structures & Algorithms**
+🚀 My interests include:
 
-🌱 Currently learning
-
-- Backend Development
-- System Design Fundamentals
-- Machine Learning
+- Full Stack Web Development
+- Data Structures & Algorithms
 - Data Analytics
 - UI/UX Design
 
-🎯 Goal
-
-To build impactful software that solves real-world problems.
+📈 Currently focused on strengthening my technical foundation, building meaningful projects, and preparing for software engineering opportunities.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -56,29 +51,25 @@ To build impactful software that solves real-world problems.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Frontend
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-### AI & ML
+### 📊 Data Analytics
+- Microsoft Excel
+- SQL
 
-- Scikit-Learn
-- LightGBM
-- XGBoost
-- OpenCV
-- MediaPipe
+### 🎨 Design & Tools
 
-### Tools
-
-Git • GitHub • VS Code • Figma • Netlify • Clerk
+Figma • Git • GitHub • VS Code • Netlify • Clerk
 
 ---
 
@@ -88,23 +79,22 @@ Git • GitHub • VS Code • Figma • Netlify • Clerk
 
 AI-powered attention monitoring system using computer vision.
 
-✅ Eye Tracking
+**Highlights**
 
-✅ Blink Detection
-
-✅ Burnout Detection
-
-✅ Posture Analysis
+- Eye Tracking
+- Blink Detection
+- Burnout Detection
+- Posture Analysis
 
 **Tech**
 
-Python • OpenCV • MediaPipe • Next.js
+Next.js • Python • OpenCV • MediaPipe
 
 ---
 
 ## 🌾 KrishiMitra AI
 
-AI assistant helping farmers identify crop diseases and receive treatment recommendations.
+An AI-powered crop advisory platform that helps farmers identify diseases and receive treatment recommendations.
 
 **Tech**
 
@@ -114,90 +104,106 @@ Python • Gemini API • Machine Learning
 
 ## 🏥 Predicting Student Health Risk
 
-🏆 **Rank 893 / 3356 (Top 26.6%)**
+🏆 **Kaggle Playground Series S6E7**
 
-Kaggle Playground Series S6E7
+- Rank **893 / 3356 (Top 26.6%)**
+- Private Score **0.95003**
 
-Built an ensemble using **LightGBM + XGBoost** with feature engineering and class weighting.
+Built an ensemble model using **LightGBM + XGBoost** with feature engineering and class-weighted learning.
 
 ---
 
 ## 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, skills, GitHub activity and achievements.
+A modern developer portfolio showcasing projects, skills, GitHub activity, and achievements.
 
 ---
 
 # 🏆 Achievements
 
-🥇 Kaggle Playground Series S6E7
+🥇 **Kaggle Playground Series S6E7 – Predicting Student Health Risk**
+- Ranked **893 / 3,356 (Top 26.6%)**
+- Achieved **0.95003 Private Score** (Balanced Accuracy)
 
-🏅 Rank **893 / 3356**
+💻 Solved **100+ Data Structures & Algorithms** problems.
 
-📈 Private Score **0.95003**
-
----
-
-💻 Solved **100+ DSA Problems**
+📂 Built multiple Full Stack, AI, and Data Analytics projects.
 
 ---
 
-📜 NPTEL Certified in Cloud Computing
+# 📜 Certifications
+
+- 🐍 **Python Essentials 1** – Cisco Networking Academy
+- 🐍 **Python Essentials 2** – Cisco Networking Academy
+- ☁️ **Cloud Computing** – NPTEL
+- 🏅 **5-Day Intensive Course** – Kaggle
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night"/>
-
 </p>
+
+---
+
+# 🌱 Currently Learning
+
+- Backend Development
+- Data Analytics
+- Machine Learning
+- Advanced DSA
+- UI/UX Design
+- System Design Fundamentals
 
 ---
 
 # 🌐 Connect With Me
 
-📧 **Email**
-
+📧 **Email**  
 **aryanyadav30705@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://linkedin.com/in/aryan-kumar-yadav
 
-🌍 **Portfolio**
-
+🌍 **Portfolio**  
 https://aryann-yadav-portfolio.netlify.app
 
-💻 **GitHub**
-
+💻 **GitHub**  
 https://github.com/Aryan-Kr-Yadav
 
 ---
 
-# 💭 Quote
+# 🎨 Beyond Coding
 
-> "Every line of code is an opportunity to learn, improve, and create something meaningful."
+When I'm away from coding, you'll usually find me:
+
+🎬 Editing videos
+
+🎨 Designing graphics
+
+🎵 Listening to music while building projects
+
+☕ Enjoying a cup of chai during long coding sessions
+
+---
+
+# 💭 Favorite Quote
+
+> *"The best way to learn is by building. Every project teaches something a tutorial never can."*
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
