@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
+<h1 align="center"> Aryan Kumar Yadav </h1>
 
 <h3 align="center">
 🚀 Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer
