@@ -143,8 +143,8 @@ A modern developer portfolio showcasing projects, skills, GitHub activity, and a
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
