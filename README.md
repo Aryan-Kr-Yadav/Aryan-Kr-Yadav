@@ -1,152 +1,203 @@
+<h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
 
-<h1 align="center">Aryan Kumar Yadav</h1>
-<h3 align="center"> 3rd- Year B.Tech CSE Student | Full Stack Developer in Progress | DSA Enthusiast</h3>
+<h3 align="center">
+🚀 Full Stack Developer • AI & Data Analytics Enthusiast • DSA Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;UI%2FUX+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Aryan-Kr-Yadav">
+<img src="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/Aryan-Kr-Yadav?tab=followers">
+<img src="https://img.shields.io/github/followers/Aryan-Kr-Yadav?style=social"/>
+</a>
+
+<a href="https://github.com/Aryan-Kr-Yadav">
+<img src="https://img.shields.io/github/stars/Aryan-Kr-Yadav?style=social"/>
+</a>
 </p>
 
 ---
 
-## 🎓 About Me
+# 👨‍💻 About Me
 
-🏫 Studying Computer Science and Engineering at ABES Engineering College, Ghaziabad, India  
-🎯 Focused on Full Stack Web Development & Data Structures and Algorithms (C++)  
-💼 Currently building web development projects and improving problem solving skills  
-🚀 Passionate about technology, coding, and creating useful digital solutions  
-🌍 Based in Ballia, Uttar Pradesh, India
+🎓 B.Tech CSE Student at **ABES Engineering College**
+
+💡 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**
+
+🧠 Strong interest in **Data Structures & Algorithms**
+
+🌱 Currently learning
+
+- Backend Development
+- System Design Fundamentals
+- Machine Learning
+- Data Analytics
+- UI/UX Design
+
+🎯 Goal
+
+To build impactful software that solves real-world problems.
 
 ---
 
-## 🌱 Currently Learning
-
-• Backend Development  
-• Data Structures & Algorithms (DSA)  
-• Full Stack Web Development  
-• UI/UX Design with Figma
-• Modern JavaScript frameworks
-
----
-
-## 💻 Tech Skills
+# 🚀 Tech Stack
 
 ### Languages
-`C` `C++` `Java` `JavaScript` `HTML` `CSS`
 
-### Frontend Development
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Design & Creative Skills
-`Figma` `Graphic Design` `Video Editing`
+### Frontend
 
-### Developer Tools
-`Git` `GitHub` `VS Code`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
----
+### Backend
 
-## 📫 Get In Touch
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-📧 Email: aryanyadav30705@gmail.com  
-🌐 Portfolio: (https://aryann-yadav-portfolio.netlify.app/)
+### AI & ML
 
----
+- Scikit-Learn
+- LightGBM
+- XGBoost
+- OpenCV
+- MediaPipe
 
-## 🌐 Connect With Me
+### Tools
 
-- 💼 LinkedIn : https://www.linkedin.com/in/aryan-kumar-yadav/
-- 💻 GitHub : https://github.com/Aryan-Kr-Yadav
-
----
-
-## 🎯 Featured Projects
-
-| Project | Description | Tech Stack |
-|-------|-------------|------------|
-
-### Hostel Website
-* Developed a mini project website for hostel-related information with a clean and simple user interface.
-* Technologies: HTML, CSS, JavaScript  
-
-### FocusLens – AI Eye-Tracking Focus Monitor: 
-* Developed a real-time attention monitoring system using computer vision.
-* Implemented blink detection and face orientation tracking.
-* Improved user focus analysis through eye movement monitoring.
-* Technologies: Python, OpenCV, MediaPipe
-
-### KrishiMitra AI:  
-* Built an AI-based assistant for crop disease identification.
-* Provided treatment recommendations and government scheme information.
-* Designed to assist farmers in making informed agricultural decisions.
-* Technologies: Python, AI APIs.
-
-### | Portfolio Website | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript,React |
-
-### | DSA Practice | Collection of solved DSA problems | C++ |
-
-### | Web Projects | Small frontend projects for practice | HTML, CSS, JS |
+Git • GitHub • VS Code • Figma • Netlify • Clerk
 
 ---
 
-➡️ More projects coming soon!
+# 🌟 Featured Projects
+
+## 🧠 FocusLens
+
+AI-powered attention monitoring system using computer vision.
+
+✅ Eye Tracking
+
+✅ Blink Detection
+
+✅ Burnout Detection
+
+✅ Posture Analysis
+
+**Tech**
+
+Python • OpenCV • MediaPipe • Next.js
 
 ---
 
-## 📊 GitHub Analytics
+## 🌾 KrishiMitra AI
+
+AI assistant helping farmers identify crop diseases and receive treatment recommendations.
+
+**Tech**
+
+Python • Gemini API • Machine Learning
+
+---
+
+## 🏥 Predicting Student Health Risk
+
+🏆 **Rank 893 / 3356 (Top 26.6%)**
+
+Kaggle Playground Series S6E7
+
+Built an ensemble using **LightGBM + XGBoost** with feature engineering and class weighting.
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, skills, GitHub activity and achievements.
+
+---
+
+# 🏆 Achievements
+
+🥇 Kaggle Playground Series S6E7
+
+🏅 Rank **893 / 3356**
+
+📈 Private Score **0.95003**
+
+---
+
+💻 Solved **100+ DSA Problems**
+
+---
+
+📜 NPTEL Certified in Cloud Computing
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Kr-Yadav&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aryan-Kr-Yadav&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night"/>
+
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**aryanyadav30705@gmail.com**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/aryan-kumar-yadav
+
+🌍 **Portfolio**
+
+https://aryann-yadav-portfolio.netlify.app
+
+💻 **GitHub**
+
+https://github.com/Aryan-Kr-Yadav
+
+---
+
+# 💭 Quote
+
+> "Every line of code is an opportunity to learn, improve, and create something meaningful."
+
+---
 
 <p align="center">
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night&hide_border=true"/>
+
+⭐ Thanks for visiting my profile! ⭐
+
 </p>
-
-<p align="center">
-<img width="50%" src="https://metrics.lecoq.io/Aryan-Kr-Yadav"/>
-</p>
-
-<p align ="center">
-  <img width="10%" src ="https://komarev.com/ghpvc/?username=Aryan-Kr-Yadav&color=blueviolet"/>
-</p>
-
-
-
----
-
-## 🏆 Achievements & Highlights
-
-🎖️ Consistently learning and building projects in Web Development  
-🎖️ Practicing Data Structures & Algorithms in C++  
-🎖️ Exploring UI/UX Design with Figma  
-
-📜 Certifications: NPTEL Certification in Cloud Computing
-
----
-
-## ⚡ Fun Facts About Me
-
-🎮 I enjoy gaming and editing videos in my free time  
-🎨 I also like graphic designing and creating digital content  
-🎵 I enjoy listening to music while coding  
-☕ Most coding sessions start with Chai and curiosity
-
----
-
-##  👥 Positions of Responsibility
-
-GDG Club – ABES Engineering College  
-Trishul Society – ABES Engineering College
-
----
-
-📈 Always learning, always building!
-
-⭐ If you like my projects, consider giving them a star!
