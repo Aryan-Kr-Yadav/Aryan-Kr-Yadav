@@ -152,11 +152,9 @@ A modern developer portfolio showcasing projects, skills, GitHub activity, and a
 <img src="https://streak-stats.demolab.com?user=Aryan-Kr-Yadav&theme=tokyonight"/>
 </p>
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night" alt="Aryan's GitHub Activity Graph"/>
-
-</div>
+<p align="center">
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night" />
+</p>
 
 ---
 
