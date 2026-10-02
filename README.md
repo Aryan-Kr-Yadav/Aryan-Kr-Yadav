@@ -63,6 +63,7 @@ Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Exp
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
+
 ### 📊 Data Analytics
 - Microsoft Excel
 - SQL
@@ -152,7 +153,7 @@ A modern developer portfolio showcasing projects, skills, GitHub activity, and a
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Kr-Yadav&theme=tokyo-night&v=2" />
 </p>
 
 ---
