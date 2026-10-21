@@ -1,6 +1,6 @@
-<h1 align="center"> Aryan Kumar Yadav </h1>
+<h1 align="center> Aryan Kumar Yadav</h1>
 
-<h3 align="center"> Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer </h3>
+<h3 align="center">Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Full+Stack+Developer;Data+Analytics+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
@@ -28,11 +28,11 @@
 
 🚀 My interests include:
 
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Data Analytics
-- UI/UX Design
-- AI-powered applications
+- Building full-stack web applications.
+- Data Structures & Algorithms.
+- Data Analytics.
+- UI/UX Design.
+- AI-powered applications.
 
 📈 Currently focused on strengthening my technical foundation, building meaningful projects, and preparing for software engineering opportunities.
 
@@ -118,10 +118,23 @@ A privacy-focused data-analysis platform that lets users explore CSV datasets an
 
 ---
 
-## 🏆 Achievements
+### 🌐 Personal Portfolio
+
+A developer portfolio showcasing my projects, technical skills, achievements, and coding journey through a personalized, newspaper-inspired design.
+
+**Highlights**
+- Dedicated sections for projects, skills, and experience.
+- GitHub and LeetCode activity integration.
+- Achievements and social links.
+- Responsive layout with an editorial-inspired aesthetic.
+
+🔗 **[Visit My Portfolio](https://aryann-yadav-portfolio.netlify.app)**
+
+---
+
+## 🏆 Achievements & Community
 
 🥇 **Kaggle Playground Series S6E7 — Predicting Student Health Risk**
-
 - Ranked **893 / 3,356 participants** (Top 26.6%).
 - Achieved a **0.95003 private score**.
 - Used feature engineering and an ensemble of LightGBM and XGBoost.
@@ -129,6 +142,10 @@ A privacy-focused data-analysis platform that lets users explore CSV datasets an
 💻 Solved **150+ LeetCode problems** and earned the **100-Day LeetCode Badge**.
 
 🌍 Selected as an open-source contributor for **GirlScript Summer of Code (GSSoC) 2026**.
+
+🤝 Serving as **Acting General at GDG On Campus ABESEC**, contributing to team coordination, event organization, and community activities.
+
+🚀 Building full-stack applications and AI-powered projects to solve practical problems and strengthen my software engineering skills.
 
 ---
 
