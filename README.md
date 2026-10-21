@@ -1,6 +1,8 @@
-<h1 align="center> Aryan Kumar Yadav</h1>
+<h1 align="center"> Aryan Kumar Yadav </h1>
 
-<h3 align="center">Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer</h3>
+<h3 align="center">
+Full Stack Developer • Data Analytics Enthusiast • UI/UX Learner • DSA Explorer
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Full+Stack+Developer;Data+Analytics+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
